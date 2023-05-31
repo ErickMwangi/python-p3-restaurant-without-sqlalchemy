@@ -108,7 +108,7 @@ Some of the methods listed are provided to you in the starter code. You should c
 - `Customer find_by_name(name)` class method
   - given a string of a **full name**, returns the **first customer** whose full name matches
 - `Customer find_all_by_given_name(name)` class method
-  - given a string of a given name, returns an **list** containing all customers with that given name
+  - given a string of a given name, returns an **list** containing all customers with that given name.
 
 #### Restaurant
 
